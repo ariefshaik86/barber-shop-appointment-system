@@ -1,6 +1,11 @@
 # Barber Shop Appointment System
 
-new.mp4
+
+https://github.com/user-attachments/assets/499d9b4f-3213-40e9-acc2-c8ef44863c05
+
+
+
+
 A full-stack barber shop appointment management system built with Spring Boot (backend) and React (frontend).
 
 
