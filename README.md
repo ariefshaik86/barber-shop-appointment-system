@@ -1,4 +1,6 @@
 # Barber Shop Appointment System
+## 🚀 Live Demo
+👉 https://smartsalonmangement.netlify.app/
 
 
 https://github.com/user-attachments/assets/499d9b4f-3213-40e9-acc2-c8ef44863c05
